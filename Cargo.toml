@@ -1,0 +1,9 @@
+[package]
+name = "pong"
+version = "0.1.0"
+authors = ["Tamas Blummer <tamas.blummer@gmail.com>"]
+edition="2018"
+
+[dependencies]
+quicksilver = "0.3.7"
+rand = "0.6.5"
